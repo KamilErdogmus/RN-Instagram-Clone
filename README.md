@@ -45,13 +45,13 @@ cd your-repository
 
 3. Install dependencies:
 
-# Using npm
+#### Using npm
 
 ```bash
 npm install
 ```
 
-# Using yarn
+#### Using yarn
 
 ```bash
 yarn install
@@ -63,13 +63,15 @@ First, you'll need to start **Metro**, the JavaScript _bundler_ that comes with 
 
 To start Metro, run the following command from the _root_ of your React Native project:
 
+#### Using npm
+
 ```bash
-# Using npm
 npm start
 ```
 
+#### Using Yarn
+
 ```bash
-# OR using Yarn
 yarn start
 ```
 
@@ -79,12 +81,13 @@ Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _roo
 
 ### For Android
 
+#### Using npm
+
 ```bash
-# using npm
 npm run android
 ```
 
-# OR using Yarn
+#### Using Yarn
 
 ```bash
 yarn android
@@ -92,13 +95,15 @@ yarn android
 
 ### For iOS
 
+##### using npm
+
 ```bash
-# using npm
 npm run ios
 ```
 
+#### Using Yarn
+
 ```bash
-# OR using Yarn
 yarn ios
 ```
 
