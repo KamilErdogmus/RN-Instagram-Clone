@@ -24,6 +24,7 @@ You can find the design for this app on Figma:
 Take a look at some previews of the app:
 
 ![Preview 1](./assets/Previews/Preview-1.jpg)
+
 ![Preview 2](./assets/Previews/Preview-2.jpg)
 
 ## Installation
