@@ -61,7 +61,7 @@ First, you'll need to start **Metro**, the JavaScript _bundler_ that comes with 
 
 To start Metro, run the following command from the _root_ of your React Native project:
 
-````bash
+```bash
 # Using npm
 npm start
 ```
@@ -70,7 +70,6 @@ npm start
 # OR using Yarn
 yarn start
 ```
-
 
 ## Step 2: Start your Application
 
@@ -84,9 +83,10 @@ npm run android
 ```
 
 # OR using Yarn
+
 ```bash
 yarn android
-````
+```
 
 ### For iOS
 
