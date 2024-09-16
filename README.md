@@ -45,13 +45,15 @@ cd your-repository
 
 3. Install dependencies:
 
+# Using npm
+
 ```bash
- # Using npm
 npm install
 ```
 
+# Using yarn
+
 ```bash
- # Using yarn
 yarn install
 ```
 
